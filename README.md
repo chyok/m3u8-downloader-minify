@@ -5,6 +5,7 @@
 
 m3u8-downloader-minify 是一个轻量级的 m3u8 视频下载工具，基于 m3u8-downloader 项目改进而来，将所有功能整合并压缩到一个单独的 HTML 文件中。
  
+![image](https://github.com/user-attachments/assets/d2e3e607-aac7-4794-961c-eaba20b997ac)
 
 ## 概述
 
