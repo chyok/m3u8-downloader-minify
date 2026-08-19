@@ -1,3 +1,5 @@
+
+
 <h1 align="center">m3u8-downloader-minify</h1>
 
 
@@ -15,7 +17,7 @@ m3u8-downloader-minify 是[原始 m3u8-downloader](https://github.com/Momo707577
 
 - 单一 HTML 文件解决方案 - 无需额外依赖
 - 完全离线工作 - 初次下载后无需互联网连接
-- 增强隐私 - 避免暴露refer信息
+- 增强隐私 - 避免暴露referrer信息
 - 用户友好界面，便于 m3u8 视频提取
 - 跨平台兼容性 - 适用于任何具有现代网络浏览器的设备
 
